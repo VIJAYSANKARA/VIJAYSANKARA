@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay.S</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I have completed my project at [Company Project](https://beauroi.com/)
+- 🔭 I have completed my project at [Beauroi](https://beauroi.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
