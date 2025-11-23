@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay.S</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I have completed my project at [Beauroi](https://beauroi.com/)
 
